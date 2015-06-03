@@ -683,7 +683,7 @@ td[class="image-124px"] img {
                                                     <td align="center" valign="top"
                                                         style="font-size: 11px;  line-height: 18px; font-weight:300; text-align: center; font-family:Open Sans,Arail,Tahoma, Helvetica, Arial, sans-serif;">
                                                         <span style="text-decoration: none; color: #a3a2a2;">Powered by <a
-                                                                href="http://www.teamcollab"
+                                                                href="http://www.teamcollab.in"
                                                                 style="text-decoration: none; color: #a3a2a2;">Team collab</a> </span>
 
                                                     </td>
